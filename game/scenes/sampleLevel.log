@@ -1,0 +1,296 @@
+	Babylon.js Exporter version: 1.8.0, Blender version: 2.75 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of material:  sampleLevel.Material
+	WARNING texture type not currently supported:  NONE, ignored.
+	processing begun of material:  sampleLevel.Material.001
+	processing begun of material:  sampleLevel.Material.002
+	processing begun of material:  sampleLevel.Material.003
+	processing begun of material:  sampleLevel.Material.004
+	processing begun of material:  sampleLevel.Material.005
+	processing begun of material:  sampleLevel.Material.006
+	processing begun of mesh:  Cylinder.028
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cylinder.027
+		processing begun of multimaterial:  sampleLevel.Multimaterial#0
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.026
+		processing begun of multimaterial:  sampleLevel.Multimaterial#1
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.025
+		processing begun of multimaterial:  sampleLevel.Multimaterial#2
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.024
+		processing begun of multimaterial:  sampleLevel.Multimaterial#3
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.023
+		processing begun of multimaterial:  sampleLevel.Multimaterial#4
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.022
+		processing begun of multimaterial:  sampleLevel.Multimaterial#5
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cube.006
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Cube.005
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Plane
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cylinder.021
+		processing begun of multimaterial:  sampleLevel.Multimaterial#6
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.020
+		processing begun of multimaterial:  sampleLevel.Multimaterial#7
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.019
+		processing begun of multimaterial:  sampleLevel.Multimaterial#8
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.018
+		processing begun of multimaterial:  sampleLevel.Multimaterial#9
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.017
+		processing begun of multimaterial:  sampleLevel.Multimaterial#10
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.016
+		processing begun of multimaterial:  sampleLevel.Multimaterial#11
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.015
+		processing begun of multimaterial:  sampleLevel.Multimaterial#12
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.014
+		processing begun of multimaterial:  sampleLevel.Multimaterial#13
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.013
+		processing begun of multimaterial:  sampleLevel.Multimaterial#14
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.012
+		processing begun of multimaterial:  sampleLevel.Multimaterial#15
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.011
+		processing begun of multimaterial:  sampleLevel.Multimaterial#16
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.010
+		processing begun of multimaterial:  sampleLevel.Multimaterial#17
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.009
+		processing begun of multimaterial:  sampleLevel.Multimaterial#18
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.008
+		processing begun of multimaterial:  sampleLevel.Multimaterial#19
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.007
+		processing begun of multimaterial:  sampleLevel.Multimaterial#20
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.006
+		processing begun of multimaterial:  sampleLevel.Multimaterial#21
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.005
+		processing begun of multimaterial:  sampleLevel.Multimaterial#22
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.004
+		processing begun of multimaterial:  sampleLevel.Multimaterial#23
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.003
+		processing begun of multimaterial:  sampleLevel.Multimaterial#24
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.002
+		processing begun of multimaterial:  sampleLevel.Multimaterial#25
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder.001
+		processing begun of multimaterial:  sampleLevel.Multimaterial#26
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cylinder
+		processing begun of multimaterial:  sampleLevel.Multimaterial#27
+		num positions      :  97
+		num normals        :  97
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  558
+	processing begun of mesh:  Cube.003
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.002
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.001
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  96
+	processing begun of light (HEMI):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
